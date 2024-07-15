@@ -1,3 +1,4 @@
 .venv
 __pycache__
 retrievables
+vector_indices
